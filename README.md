@@ -1,2 +1,14 @@
-# ProjektTemplate
-General Projekt Template for Recording Research and Development.
+# BlackBox
+BlackBox Flight Data Recorder
+
+This is in partnership with Dhalwani Designs, which holds all rights, data, and procedures for this project and the related. This project was made for the Buckeye Space Launch Initiative Liquids Research Team. <br />
+
+Researcher: Wilson Dhalwani <br />
+Aides: Mr. Julian Hooks (OSU) <br />
+Context: Dhalwani Designs Sanctioned Project and BSLI Liquids Project <br />
+Project Name: The Blackbox <br />
+Start Date: January 09, 2025 <br /> 
+
+The following repository is for documenting and sharing my work in this research and competition project and its related fields of electrical and avionics engineering. This was also made to record my process of solving the issue at hand so that others can learn and build upon my work. Wanting to advance my experience and skills in avionics, as well as PCB design, I sought to join the Buckeye Space Launch Initiative, and specifically the Liquids Project Team (https://www.bsli.space/projects/liquids/). I quickly grasped concepts and joined the electronics/avionics subteam. Working closely with Mr. Julian Hooks, I have gained great experience, expertise, and knowledge in the field and its accompanying areas of study/research. Mr. Hooks has been an amazing team lead, mentor, and friend, and I hope to grow into half the leader and engineer he is. I was quickly assigned the task of creating the dedicated and versatile flight data recorder for the entire system of our up and coming rocket. For some context, this rocket will be a high powered rocket that aims to break the current collegiete apogee record. All custom designed, built, and manufactured, this rocket is composed of comepletly novel and innovative approaches to existing technology to advance the capabilities of the field but to also promote increased investment/interest into the related fields. Getting back to my individual role and contributions, I solely worked on the research, design, and development of this board, ensuring this critical component of the entire electronic as well as non-electronic systems would not only do its duty as our last resort, but still aid in achieving the overarching goals. One may notice key design choices throughout this board, as well as its expansive (and further expandable) capabilities. Ranging from dedicated and secure communication lines to extremely sensitive sensors, the BlackBox, as I have named it, will be a reliable yet hopefully unused aspect of this rocket. Aside from the more standard features such as event/data recording and reliable dedicated power systems, the processing and versatility of this system have been unmatched thus far (as compared to similar models in the collegeite field). A specialized enclosure was also designed to aid in protecting the board while also maximizing utility and accessibility during the implementation phase. This project has no end date as an innovation never ends, rather, continues until the idea is forgotten, and my hope is that this work can be the basis for future engineers who, too, find great excitement in innovation and design. <br />
+
+Should you have any questions, comments, or just wish to reach out, email me at wilson.dhalwani@gmail.com !
